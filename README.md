@@ -1,5 +1,5 @@
 # DSBA6010 - Model Risk Management
-- ## The purpose of this syllabus is to set out policies and expectations for the course.  Syllabus policies and expectations are intended to create a productive learning atmosphere for all students.  The syllabus may change over the course of the semester; and all such changes will be noted in class and announced via Canvas announcements (which should go to your UNC Charlotte email).
+- #### The purpose of this syllabus is to set out policies and expectations for the course.  Syllabus policies and expectations are intended to create a productive learning atmosphere for all students.  The syllabus may change over the course of the semester; and all such changes will be noted in class and announced via Canvas announcements (which should go to your UNC Charlotte email).
 
 Course Prerequisites:
 
@@ -35,3 +35,6 @@ Points may be awarded for thoughtful questions or meaningful contributions when 
 300 points for Final Group Project
 Based on your points at the end of the class, your final grade will be:
 ![alt text](HK/grade.png)
+
+Course Schedule:
+![alt text](HK/sys.png)
