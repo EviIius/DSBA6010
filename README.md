@@ -38,3 +38,9 @@ Based on your points at the end of the class, your final grade will be:
 
 Course Schedule:
 ![alt text](HK/sys.png)
+
+Office Hours:
+
+Teaching Assistant - Xavier Zuo (xzuo@charlotte.edu): As needed
+
+Instructor - Robert Fox (rfox12@charlotte.edu): As needed
