@@ -1,0 +1,2 @@
+Shap Documentation: https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html
+How Shapley Works: https://www.aidancooper.co.uk/how-shapley-values-work/ 
