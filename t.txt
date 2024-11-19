@@ -1,0 +1,18 @@
+Query Generation
+
+create tests for different paths
+query handling, query about numnbers or chars
+create query to test model robustness
+create query to test model variability
+how the model will peform 
+
+pick any chart give to genai with system prompt and see if they give the right answer
+
+5 differnet type of query
+pick 3 out of the 15 in the first category.
+
+3 query for number table and chart among 6 choices
+
+each person 1 query per category of query
+
+load assignment to create code to llm
